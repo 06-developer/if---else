@@ -121,11 +121,11 @@
 // (login == 'Employe') ? (message = 'Hello') : (login == 'Director') ? (message = 'Greetings') : (login == '') ? message ='No login' : (message = '');
 
 // 4.
-// let answer = prompt("Alisher Navoiy nechanchi yil tug'ilgan?");
+// let answer = prompt(`What's the "official" name of Javascript?`);
 // if(answer === "ECMAScript"){
 //     alert("Right")
 // }
 // else {
 //     alert("you entered the wrong answer!")
 //     alert("Try again!")
-// }
+// };
